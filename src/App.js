@@ -1,6 +1,6 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
-// lesson 166/167/168/169/170/171/172/173
+// lesson 166/167/168/169/170/171/172/173/174/
 // import pages
 import Home from "./pages/Home";
 import About from "./pages/About";
